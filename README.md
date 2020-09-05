@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<alvon-X>&theme=<DARK>" /> -->
 
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]()
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Deepak.
