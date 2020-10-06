@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<python>&logoColor=white&color=2bbc8a)
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<alvon-X>&theme=<DARK>" /> -->
 
 
@@ -23,6 +21,4 @@ Here are some ideas to get you started:
 <p align='center'>
 I'm Deepak.
 </p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/DeepakS37948212">Twitter</a>.</p>
-
 <h1 align='center'><i>Stay awesome!</i></h1>
