@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align='center'><img src="https://github.com/alvon-X/alvon-X/blob/master/assets/AI_gif_3.gif" height=100/></div>
 
 <h1 align='center'> Hi! :wave:</h1>
